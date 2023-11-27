@@ -2,3 +2,4 @@ Gitの使い方練習
 頑張るぜー
 git add
 git commit
+astropy
